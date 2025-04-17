@@ -1,1 +1,1 @@
-"# ms776oc" 
+Zdrojové súbory k mojej Diplomovej práci.
